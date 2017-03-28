@@ -1,0 +1,15 @@
+{
+    "name": "wcs/poo",
+    "authors": [
+        {
+            "name": "Johan Gaub",
+            "email": "johangaub@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "wcs\\": "src/"
+        }
+    }
+}
